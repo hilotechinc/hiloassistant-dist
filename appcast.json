@@ -1,9 +1,9 @@
 {
-  "version": "0.3.13",
-  "build": 202607082235,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.3.13/HiloAssistant-0.3.13-installer.zip",
-  "sha256": "00beee1d76de7642e951622ba7b7af3d1bfbd52c4c6623132f14dc7b7fc0df2f",
-  "size": 4087139,
-  "notes": "Mise à jour HiloAssistant 0.3.13.",
+  "version": "0.4.0",
+  "build": 202607120940,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.0/HiloAssistant-0.4.0-installer.zip",
+  "sha256": "07b4522933ad6f79e5c641ab24cbe43384ff4948ff61b71b82cb90f74b8277d6",
+  "size": 4466342,
+  "notes": "Mise à jour HiloAssistant 0.4.0.",
   "minimumOS": "14.0"
 }
