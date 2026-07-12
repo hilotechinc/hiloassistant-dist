@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
-  "build": 202607120940,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.0/HiloAssistant-0.4.0-installer.zip",
-  "sha256": "07b4522933ad6f79e5c641ab24cbe43384ff4948ff61b71b82cb90f74b8277d6",
-  "size": 4466342,
-  "notes": "Nouveau : Procédures automatiques — enregistre tes clics + ta narration, l'IA rédige un document en étapes illustrées (nettoyage des clics parasites, décisions à trancher, bibliothèque, pause, export Markdown/HTML). Connexion au compte HiloIntelligence : l'IA fonctionne avec ton compte, plus de clé à coller. L'app prend le nom, le logo et la couleur de ton organisation.",
+  "version": "0.4.1",
+  "build": 202607120958,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.1/HiloAssistant-0.4.1-installer.zip",
+  "sha256": "803281cf65f248606200947134cee395eb723220f811fee108705bd7b1f90072",
+  "size": 4469006,
+  "notes": "Mise à jour HiloAssistant 0.4.1.",
   "minimumOS": "14.0"
 }
