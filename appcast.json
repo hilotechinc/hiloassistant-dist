@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.1/HiloAssistant-0.4.1-installer.zip",
   "sha256": "803281cf65f248606200947134cee395eb723220f811fee108705bd7b1f90072",
   "size": 4469006,
-  "notes": "Mise à jour HiloAssistant 0.4.1.",
+  "notes": "Visite guidée mise à jour : connexion avec ton compte HiloIntelligence (plus de clé à coller), présentation des Procédures automatiques, app au nom et logo de ton organisation.",
   "minimumOS": "14.0"
 }
