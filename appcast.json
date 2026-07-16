@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.2/HiloAssistant-0.4.2-installer.zip",
   "sha256": "661c4d8e644d5ed6781c9082a710cf8dff3399e04a3af7a9300c7a9eb9510328",
   "size": 4442088,
-  "notes": "Mise à jour HiloAssistant 0.4.2.",
+  "notes": "La connexion au compte HiloIntelligence est désormais la seule méthode : les clés API collées sont retirées et nettoyées. Clique « Se connecter avec le hub » (Préférences → API) — ta session fait le reste.",
   "minimumOS": "14.0"
 }
