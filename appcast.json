@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.3/HiloAssistant-0.4.3-installer.zip",
   "sha256": "520fcc74175591058185e177b8db4e46d404ef3ed357eb3e9a1d01390dd03d39",
   "size": 4507852,
-  "notes": "Mise à jour HiloAssistant 0.4.3.",
+  "notes": "Éditeur de captures amélioré : la couleur choisie est mémorisée, la couleur d'un élément déjà tracé se change après sélection, Supprimer/Retour arrière efface l'élément sélectionné, une « Capture modifiée » se rouvre avec ses annotations retouchables, et le floutage des infos sensibles se fait à la demande (bouton œil barré). Nouveau : raccourci clavier global par action de Saisie et bulle ✓/⤢ à la sélection de texte. Onglet Mémoire réorganisé.",
   "minimumOS": "14.0"
 }
