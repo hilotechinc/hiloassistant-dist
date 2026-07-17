@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.4/HiloAssistant-0.4.4-installer.zip",
   "sha256": "04fa9de60b5b627db6c5e5939060a183d626f2e6a9b24234235bd940eab808b0",
   "size": 4509887,
-  "notes": "Mise à jour HiloAssistant 0.4.4.",
+  "notes": "Bulle à la sélection améliorée : elle s'affiche de façon fiable, uniquement dans une zone où l'on peut écrire (pas en lecture), et « Corriger » s'applique directement sans aperçu. Après un remplacement lancé au raccourci, l'assistant reste discret au lieu de revenir à l'avant-plan.",
   "minimumOS": "14.0"
 }
