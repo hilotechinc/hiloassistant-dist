@@ -1,9 +1,9 @@
 {
-  "version": "0.4.6",
-  "build": 202607172126,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.6/HiloAssistant-0.4.6-installer.zip",
-  "sha256": "e2f4a5aa4b0756f45f3d75cf3629c6c7d77299b24171cb23198ed23c7384535b",
-  "size": 4542050,
-  "notes": "Éditeur de capture : tu peux maintenant annoter (flèches, traits, texte) même en étant zoomé, et les petites captures grossissent vraiment au zoom. Nouveau : exporte un diagnostic en un clic (Préférences → Général) pour rapporter un bug utilement. Plus une série de correctifs de fiabilité (presse-papiers sensible, dictée, Touch ID, import d'infos).",
+  "version": "0.4.7",
+  "build": 202607181238,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.7/HiloAssistant-0.4.7-installer.zip",
+  "sha256": "e2d5182237abf46b033148f01760b3f444ef591549a0efa1e06e95c3278b1331",
+  "size": 4545017,
+  "notes": "Mise à jour HiloAssistant 0.4.7.",
   "minimumOS": "14.0"
 }
