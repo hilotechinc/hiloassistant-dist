@@ -1,9 +1,9 @@
 {
-  "version": "0.4.7",
-  "build": 202607181238,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.7/HiloAssistant-0.4.7-installer.zip",
-  "sha256": "e2d5182237abf46b033148f01760b3f444ef591549a0efa1e06e95c3278b1331",
-  "size": 4545017,
-  "notes": "L'aperçu au survol des captures dans le presse-papiers ne clignote plus et ne bloque plus le collage : il s'affiche de façon stable à côté de la fenêtre. La barre de correction à la sélection est plus nette (fini le contour foncé) et gagne un bouton ✕ pour la fermer.",
+  "version": "0.4.8",
+  "build": 202607181736,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.8/HiloAssistant-0.4.8-installer.zip",
+  "sha256": "a3903c80abde42c0c019ee3f3a624f096d3b05d29ed3bc8c0866d52a42ee4ff9",
+  "size": 4569852,
+  "notes": "Mise à jour HiloAssistant 0.4.8.",
   "minimumOS": "14.0"
 }
