@@ -1,9 +1,9 @@
 {
-  "version": "0.4.5",
-  "build": 202607171457,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.5/HiloAssistant-0.4.5-installer.zip",
-  "sha256": "43fbe8792a9fec7398223d47f777f45497af6dd3e7ca7877af67f489a7c117f1",
-  "size": 4523984,
-  "notes": "Profil de configuration : exporte tes réglages pour les partager ou les déployer à toute l'équipe (déploiement de masse via un fichier managé). La langue de l'app suit maintenant celle de ton Mac par défaut (modifiable). Nouveau réglage à la capture d'écran : ouvrir l'éditeur (défaut), en plein écran, ou copier directement sans fenêtre.",
+  "version": "0.4.6",
+  "build": 202607172126,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.6/HiloAssistant-0.4.6-installer.zip",
+  "sha256": "e2f4a5aa4b0756f45f3d75cf3629c6c7d77299b24171cb23198ed23c7384535b",
+  "size": 4542050,
+  "notes": "Mise à jour HiloAssistant 0.4.6.",
   "minimumOS": "14.0"
 }
