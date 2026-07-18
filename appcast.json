@@ -1,9 +1,9 @@
 {
-  "version": "0.4.8",
-  "build": 202607181736,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.8/HiloAssistant-0.4.8-installer.zip",
-  "sha256": "a3903c80abde42c0c019ee3f3a624f096d3b05d29ed3bc8c0866d52a42ee4ff9",
-  "size": 4569852,
-  "notes": "Accès réservé aux comptes HiloIntelligence connectés : sans connexion, l'application se verrouille jusqu'à l'authentification. Nouveau : bouton « Signaler un problème », rapports d'incident optionnels, et section Légal & confidentialité (politique de confidentialité, conditions, licence). Corrections diverses (actions IA, messages de connexion).",
+  "version": "0.4.9",
+  "build": 202607181938,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.9/HiloAssistant-0.4.9-installer.zip",
+  "sha256": "23f5c0ed191fb0ec405087c925ee8166991a5d90b1545cfc75bbce2eb8e751bf",
+  "size": 4570354,
+  "notes": "Mise à jour HiloAssistant 0.4.9.",
   "minimumOS": "14.0"
 }
