@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.2/HiloAssistant-0.5.2-installer.zip",
   "sha256": "de27d9c2ba9d4a4ba2a435486a1cbbfdeda57988f2678e76013e724d1095c678",
   "size": 4604820,
-  "notes": "Mise à jour HiloAssistant 0.5.2.",
+  "notes": "L'en-tête de l'éditeur de capture est corrigé : les boutons fermer, réduire et agrandir retrouvent leur groupe standard (fini l'écart entre le rouge et le vert), et le titre ne chevauche plus les boutons quand les captures sont regroupées en onglets.",
   "minimumOS": "14.0"
 }
