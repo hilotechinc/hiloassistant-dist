@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.1/HiloAssistant-0.5.1-installer.zip",
   "sha256": "8312f2fe601123e9d259c714a235e03c8ad0e7ff5f3feffe7bcd553ad1c4e095",
   "size": 4604895,
-  "notes": "Mise à jour HiloAssistant 0.5.1.",
+  "notes": "Correctif important : le copier-coller ne se fige plus. Une opération d'écriture sans application cible pouvait bloquer définitivement les remplacements jusqu'au redémarrage — c'est corrigé, avec plusieurs garde-fous : le presse-papiers n'est plus vidé par erreur quand un mot de passe y est copié, les raccourcis globaux sont toujours réenregistrés, et les blocages de saisie sécurisée causés par l'app se lèvent automatiquement.",
   "minimumOS": "14.0"
 }
