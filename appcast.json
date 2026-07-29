@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.0/HiloAssistant-0.5.0-installer.zip",
   "sha256": "9c66ff77e49df5ede5f336b5a2bdec88546f9cab47dbfce12a93090aae649088",
   "size": 4603850,
-  "notes": "Mise à jour HiloAssistant 0.5.0.",
+  "notes": "L'application parle maintenant anglais : par défaut elle suit la langue de votre Mac, et vous pouvez la fixer dans Préférences → Langue. L'éditeur de captures s'ouvre à la taille de l'image, se zoome à la molette et se déplace au clic-glisser ; plusieurs captures se regroupent en onglets, avec un bouton pour toutes les copier. Corrections : reconnaissance de texte (confusion l/1) et correcteur automatique dans Teams.",
   "minimumOS": "14.0"
 }
