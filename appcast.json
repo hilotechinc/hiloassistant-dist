@@ -1,9 +1,9 @@
 {
-  "version": "0.4.9",
-  "build": 202607181938,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.4.9/HiloAssistant-0.4.9-installer.zip",
-  "sha256": "23f5c0ed191fb0ec405087c925ee8166991a5d90b1545cfc75bbce2eb8e751bf",
-  "size": 4570354,
-  "notes": "La barre de correction à la sélection est maintenant quasi instantanée : elle apparaît dès que tu surlignes du texte (dans une zone où l'on peut écrire) et disparaît aussitôt que tu désélectionnes.",
+  "version": "0.5.0",
+  "build": 202607290037,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.0/HiloAssistant-0.5.0-installer.zip",
+  "sha256": "9c66ff77e49df5ede5f336b5a2bdec88546f9cab47dbfce12a93090aae649088",
+  "size": 4603850,
+  "notes": "Mise à jour HiloAssistant 0.5.0.",
   "minimumOS": "14.0"
 }
