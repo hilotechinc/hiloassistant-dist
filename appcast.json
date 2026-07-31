@@ -4,6 +4,6 @@
   "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.3/HiloAssistant-0.5.3-installer.zip",
   "sha256": "f9a14f5164e1eb889e7df6d617e1237c73dd09391f37d6ad69a496d493aea888",
   "size": 4611020,
-  "notes": "Mise à jour HiloAssistant 0.5.3.",
+  "notes": "Les modèles d'IA sont maintenant ceux définis par ton organisation dans HiloIntelligence (plus de choix dans l'application). Le presse-papiers, la mémoire et les captures fonctionnent sans connexion — seules les fonctions d'IA demandent de se connecter. « Transformer un texte » devient une fenêtre autonome que tu peux laisser ouverte pendant que tu utilises le reste de l'application.",
   "minimumOS": "14.0"
 }
