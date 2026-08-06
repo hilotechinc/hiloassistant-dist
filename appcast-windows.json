@@ -1,8 +1,8 @@
 {
-    "version":  "0.9.14",
-    "build":  93,
-    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.14.93/HiloAssistant-0.9.14.93.msix",
-    "sha256":  "ff2f67f51c6dd5c650ffe89980d9f4df8392341efe6fa4f1529561f0ebfa301f",
-    "size":  107767170,
-    "notes":  "Interface en anglais : Reglages \u003e General \u003e Langue (Automatique, Francais, English). Le widget, la capture, le coffre, la dictee et les procedures suivent le choix, sans redemarrage. La langue des reponses de l\u0027IA suit desormais ce reglage. Les enregistrements d\u0027ecran n\u0027ont plus le cadre jaune de capture. Nombreux ajustements de parite avec la version macOS."
+    "version":  "0.9.17",
+    "build":  96,
+    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.17.96/HiloAssistant-0.9.17.96.msix",
+    "sha256":  "ff08b11a90e3516e88cb675f5df6bd120a5a4ba9da6a2d310f92464c027bf299",
+    "size":  107772355,
+    "notes":  "Les fonctions locales marchent hors connexion : presse-papiers, mémoire, coffre, captures, raccourcis de texte et lecture à voix haute ne demandent plus de session. L'assistant de configuration s'ouvre à nouveau après une réinstallation. Le survol des boutons de la barre de titre n'efface plus leur icône. Parité macOS v0.5.3 : l'application n'impose plus aucun modèle d'IA (le modèle par défaut de votre organisation s'applique), la dictée passe par le point d'entrée natif de transcription, et « Transformer un texte » devient une fenêtre autonome."
 }
