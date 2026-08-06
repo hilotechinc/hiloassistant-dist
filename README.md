@@ -21,8 +21,9 @@ L'application est distribuée en dehors du Mac App Store et en dehors du Microso
 
 - **macOS** : version récente supportée par Apple (Apple Silicon et Intel).
 - **Windows** : Windows 10 version 1809 (build 17763) ou Windows 11, **64 bits**. Droits administrateur requis **une seule fois**, à l'installation, pour approuver le certificat de signature (voir section 9). Aucun runtime à installer : tout ce dont l'application a besoin est inclus dans le paquet.
-- **Compte HiloIntelligence actif, palier « Plan 3 »** : l'application est **inutilisable sans connexion**. L'authentification se fait par OAuth 2.0 / OIDC avec PKCE via le fournisseur HiloIntelligence. Sans jeton valide, un verrou bloquant empêche l'accès à toute fonctionnalité.
-- Si l'accès HiloIntelligence de l'utilisateur est révoqué ou expire, l'application se reverrouille automatiquement (règle de révocation) — aucune donnée locale ne demeure accessible tant que la session n'est pas rétablie.
+- **Compte HiloIntelligence actif, palier « Plan 3 »** : requis pour les fonctions d'**IA** — actions de texte, dictée, remplissage intelligent, création de procédure. L'authentification se fait par OAuth 2.0 / OIDC avec PKCE via le fournisseur HiloIntelligence. L'invitation à se connecter apparaît au moment où l'une de ces fonctions est déclenchée, et reste refermable.
+- **Le reste fonctionne hors connexion** : presse-papiers, mémoire, coffre, captures photo et vidéo, OCR, raccourcis de texte. L'application n'est pas verrouillée en l'absence de session.
+- Si l'accès HiloIntelligence de l'utilisateur est révoqué ou expire, les fonctions d'IA cessent d'être disponibles jusqu'au rétablissement de la session ; les fonctions locales, elles, continuent de fonctionner.
 
 ## 3. Ce que l'application fait — et ne fait pas
 
@@ -38,7 +39,7 @@ L'application est distribuée en dehors du Mac App Store et en dehors du Microso
 - **Aucune gestion de mots de passe.** Cette fonctionnalité a été retirée du produit.
 - Aucun suivi publicitaire, aucun SDK d'analytique tiers.
 - Aucune transmission de contenu sans action explicite de l'utilisateur (voir section 5).
-- Aucune fonctionnalité utilisable hors ligne sans compte HiloIntelligence — ce n'est pas un outil autonome.
+- Aucune fonction d'**IA** sans compte HiloIntelligence. Les fonctions locales (presse-papiers, mémoire, coffre, captures, OCR) restent utilisables hors connexion.
 
 ## 4. Permissions requises
 
@@ -111,8 +112,8 @@ Les versions des deux plateformes cohabitent dans la section [Releases](../../re
 
 ### 6.1 macOS
 
-1. Télécharger le fichier `.dmg` (ou `.pkg`, selon la version publiée) le plus récent.
-2. Glisser l'application dans `/Applications`.
+1. Télécharger **`HiloAssistant-<version>-installer.zip`** (étiquette `v…`) et le décompresser.
+2. Double-cliquer **`Install.command`** : le script lève la quarantaine imposée par Gatekeeper, copie l'application dans `/Applications` et la lance — il n'y a pas de clic droit → Ouvrir à faire.
 3. Au premier lancement, l'assistant d'accueil guide l'utilisateur à travers l'octroi des permissions (section 4.1) et la connexion au compte HiloIntelligence de son organisation.
 
 ### 6.2 Windows
