@@ -1,8 +1,8 @@
 {
-    "version":  "0.9.17",
-    "build":  96,
-    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.17.96/HiloAssistant-0.9.17.96.msix",
-    "sha256":  "ff08b11a90e3516e88cb675f5df6bd120a5a4ba9da6a2d310f92464c027bf299",
-    "size":  107772355,
-    "notes":  "Les fonctions locales marchent hors connexion : presse-papiers, mémoire, coffre, captures, raccourcis de texte et lecture à voix haute ne demandent plus de session. L'assistant de configuration s'ouvre à nouveau après une réinstallation. Le survol des boutons de la barre de titre n'efface plus leur icône. Parité macOS v0.5.3 : l'application n'impose plus aucun modèle d'IA (le modèle par défaut de votre organisation s'applique), la dictée passe par le point d'entrée natif de transcription, et « Transformer un texte » devient une fenêtre autonome."
+    "version":  "0.9.18",
+    "build":  97,
+    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.18.97/HiloAssistant-0.9.18.97.msix",
+    "sha256":  "eee910e3adea545a488e647e9871d5ebf2a607697862471adf65962c412c6a1f",
+    "size":  107819611,
+    "notes":  "L\u0027application reste visible dans la barre des tâches tant qu\u0027elle tourne, comme l\u0027icône du Dock sur Mac : un clic sur son icône rouvre l\u0027assistant, et elle apparaît aussi dans Alt+Tab. Le changement de langue français/anglais s\u0027applique désormais partout et immédiatement — réglages, menu de la zone de notification, enregistreur de raccourcis — sans redémarrer l\u0027application. L\u0027éditeur de capture reprend trait pour trait la barre d\u0027outils du Mac : icônes redessinées, mêmes outils dans le même ordre, menus qui annoncent enfin qu\u0027ils en sont, et punaise qui s\u0027allume quand l\u0027aperçu est épinglé."
 }
