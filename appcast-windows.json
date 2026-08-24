@@ -1,8 +1,8 @@
 {
-    "version":  "0.9.18",
-    "build":  97,
-    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.18.97/HiloAssistant-0.9.18.97.msix",
-    "sha256":  "eee910e3adea545a488e647e9871d5ebf2a607697862471adf65962c412c6a1f",
-    "size":  107819611,
-    "notes":  "L\u0027application reste visible dans la barre des tâches tant qu\u0027elle tourne, comme l\u0027icône du Dock sur Mac : un clic sur son icône rouvre l\u0027assistant, et elle apparaît aussi dans Alt+Tab. Le changement de langue français/anglais s\u0027applique désormais partout et immédiatement — réglages, menu de la zone de notification, enregistreur de raccourcis — sans redémarrer l\u0027application. L\u0027éditeur de capture reprend trait pour trait la barre d\u0027outils du Mac : icônes redessinées, mêmes outils dans le même ordre, menus qui annoncent enfin qu\u0027ils en sont, et punaise qui s\u0027allume quand l\u0027aperçu est épinglé."
+    "version":  "0.9.19",
+    "build":  98,
+    "url":  "https://github.com/hilotechinc/hiloassistant-dist/releases/download/win-v0.9.19.98/HiloAssistant-0.9.19.98.msix",
+    "sha256":  "c637b4a82da3037c91cd26d58af807a503440fdbd9e44dc668ac11930ca6e7a3",
+    "size":  107820631,
+    "notes":  "L\u0027assistant se rouvre là où vous l\u0027aviez laissé : un clic sur son icône de la barre des tâches et un Alt+Tab le ramènent au même endroit, au lieu de le faire sauter près du curseur. Le raccourci d\u0027ouverture (Alt+Espace), lui, continue de l\u0027afficher près de votre sélection. Le retour au français fonctionne enfin après un passage à l\u0027anglais — certains libellés restaient anglais définitivement. Dans l\u0027éditeur de capture, la punaise n\u0027est plus tranchée, le format d\u0027export s\u0027affiche en entier (« JPEG » ne tenait pas) et le premier bouton ne mord plus sur le coin arrondi.\n"
 }
