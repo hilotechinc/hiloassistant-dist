@@ -1,9 +1,9 @@
 {
-  "version": "0.5.3",
-  "build": 202607311421,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v0.5.3/HiloAssistant-0.5.3-installer.zip",
-  "sha256": "f9a14f5164e1eb889e7df6d617e1237c73dd09391f37d6ad69a496d493aea888",
-  "size": 4611020,
-  "notes": "Les modèles d'IA sont maintenant ceux définis par ton organisation dans HiloIntelligence (plus de choix dans l'application). Le presse-papiers, la mémoire et les captures fonctionnent sans connexion — seules les fonctions d'IA demandent de se connecter. « Transformer un texte » devient une fenêtre autonome que tu peux laisser ouverte pendant que tu utilises le reste de l'application.",
+  "version": "1.0.1021",
+  "build": 202609281548,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist/releases/download/v1.0.1021/HiloAssistant-1.0.1021-installer.zip",
+  "sha256": "08d256642c217ac479c06c00378312628eeeb6aad41e3d68d60773ee023cfcc5",
+  "size": 5035569,
+  "notes": "Passage à la nouvelle distribution — Local Assistant 1.0.1021.\n\nFR — Cette mise à jour fait passer l'application sur la distribution HiloIntelligence (AI Center). Après l'installation, connecte-toi avec ton compte HiloIntelligence (Plan 3) : les mises à jour suivantes arriveront ensuite automatiquement. Si macOS redemande l'accès (Accessibilité, Enregistrement de l'écran, Micro), accorde-le de nouveau : la signature de l'application a changé. Tes données locales (mémoire, coffre, presse-papiers) sont conservées.\n\nEN — This update moves the app to the HiloIntelligence (AI Center) distribution. After installing, sign in with your HiloIntelligence (Plan 3) account: later updates will then arrive automatically. If macOS asks again for Accessibility, Screen Recording or Microphone access, grant it again: the app's signature changed. Your local data (memory, vault, clipboard) is kept.",
   "minimumOS": "14.0"
 }
